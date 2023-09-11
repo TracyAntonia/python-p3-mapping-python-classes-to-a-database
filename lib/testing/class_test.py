@@ -1,5 +1,6 @@
 from lib.config import CURSOR
 from lib.song import Song
+from lib.song import Song, CURSOR
 
 class TestClass:
     '''Class Song in song.py'''
